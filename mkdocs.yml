@@ -1,0 +1,32 @@
+site_name: SIS Documentation
+site_description: 'SIS (Student Information System) documentation'
+site_author: 'Lanka Software Foundation'
+site_url: ''
+
+repo_name: 'moe-lk/SIS-documentation'
+repo_url: 'https://github.com/moe-lk/SIS-documentation'
+
+copyright: 'Copyright &copy; 2018 - 2019 Lanka Software Foundation'
+
+nav:
+    - Overview: Overview.md
+    
+theme:
+  name: 'material'
+  palette:
+    primary: 'light blue'
+    accent: 'light blue'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  #logo: ''
+  language: 'en'
+  #favicon: 'images/favicon.ico'
+
+# Extensions
+markdown_extensions:
+  - admonition:
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
