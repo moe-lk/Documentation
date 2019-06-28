@@ -1,2 +1,2 @@
-# Welcome to MOE-SIS Documentation 
+# Welcome to MOE project Documentation 
 
