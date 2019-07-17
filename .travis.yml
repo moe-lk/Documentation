@@ -9,7 +9,7 @@ python:
   - 2.7
 install:
 - pip install mkdocs
-- pip mkdocs-material pymdown-extensions pygments
+- pip install mkdocs-material pymdown-extensions pygments
 #- pip install MarkdownHighlight
 
 script:
