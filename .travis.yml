@@ -9,7 +9,9 @@ python:
   - 2.7
 install:
 - pip install mkdocs
-- pip install MarkdownHighlight
+- pip mkdocs-material pymdown-extensions pygments
+#- pip install MarkdownHighlight
+
 script:
 -  openssl aes-256-cbc -K $encrypted_18ffb1049043_key -iv $encrypted_18ffb1049043_iv -in deploy-key.enc -out deploy-key -d
 - chmod 600 deploy-key
