@@ -4,7 +4,9 @@ env:
   - GIT_EMAIL: djw8605@gmail.com
   - GH_REF: git@github.com:moe-lk/SIS-documentation.git
 
-language: python: 2.7
+language: python
+python:
+  - 2.7
 install:
 - pip install mkdocs
 - pip install MarkdownHighlight
