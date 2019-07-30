@@ -51,13 +51,13 @@ A complete student information system for the Ministry of education to cover all
   - Avoid student registration in multiple schools 
   - Maintain student tracing history records. 
 
-- **Heretical Management (Provincial/ Zonal /School ) 
+- **Heretical Management (Provincial/ Zonal /School )**
   - Admin staff hierarchy
   - Role-based permission model 
   - Customizable roles 
   - Auditing and tracing facilities. 
 
-- **Data monitoring and report generating 
+- **Data monitoring and report generating**
   - Realtime dashboard 
   - Statistical data visualization 
   - Multiple dashboards in diffetent perspectives
