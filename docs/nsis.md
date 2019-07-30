@@ -8,6 +8,15 @@ The National Student Information System (NSIS) is a centralized information syst
 
 A complete student information system for the Ministry of education to cover all the relevant up to date information regarding schools, students and generate reports to fulfil the policy and decision-making requirements. 
 
+## Objectives 
+
+- Provide up to date information for decision-makers at school, Zonal, provincial and ministerial level. 
+- Increase efficiency in decision making. 
+- Reduce wastage in resources.
+- Ensure that all students to receive a quality education in order to realize their potential and become productive citizens to the country. 
+
+
+
 ## Benefits
 
 - Provide up to date information for decision-makers at school, Zonal, provincial and ministerial level.
