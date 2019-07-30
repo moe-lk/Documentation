@@ -18,10 +18,10 @@ A complete student information system for the Ministry of education to cover all
 ## Features
 
 + **Student profile**
-  - Personal information 
-  - Academic information
-  - Health information
-  - Performance and history information 
+    - Personal information 
+    - Academic information
+    - Health information
+    - Performance and history information 
 
 + **School profile**
   - Physical information 
