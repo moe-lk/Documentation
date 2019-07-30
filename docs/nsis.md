@@ -17,13 +17,13 @@ A complete student information system for the Ministry of education to cover all
 
 ## Features
 
-- **Student profile**
++ **Student profile**
   - Personal information 
   - Academic information
   - Health information
   - Performance and history information 
 
-- **School profile**
++ **School profile**
   - Physical information 
   - Contact details 
   - Location information (Map) 
@@ -32,32 +32,32 @@ A complete student information system for the Ministry of education to cover all
   - Student allocation for each class 
   - Infrastructure information  
 
-- **Guardian information**
++ **Guardian information**
   - Personal information
   - Student guardian relationship 
   
-- **Education programs** 
++ **Education programs** 
   - Classes structure 
   - Subject allocation 
   - 13 years program 
   - Special education program 
 
-- **Student promotion(between grades)**
++ **Student promotion(between grades)**
   - Bulk student promotion between grades annually 
   - Keep upto date student information 
   - Student transferring (between schools)
  
-- **Track student transferring**
++ **Track student transferring**
   - Avoid student registration in multiple schools 
   - Maintain student tracing history records. 
 
-- **Heretical Management (Provincial/ Zonal /School )**
++ **Heretical Management (Provincial/ Zonal /School )**
   - Admin staff hierarchy
   - Role-based permission model 
   - Customizable roles 
   - Auditing and tracing facilities. 
 
-- **Data monitoring and report generating**
++ **Data monitoring and report generating**
   - Realtime dashboard 
   - Statistical data visualization 
   - Multiple dashboards in diffetent perspectives
