@@ -17,7 +17,7 @@ A complete student information system for the Ministry of education to cover all
 
 ## Abstract Design Architecture
 
-
+![Abstract Design Architecture ](images/abstract_view.png)
 
 
 
