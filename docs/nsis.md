@@ -15,6 +15,12 @@ A complete student information system for the Ministry of education to cover all
 - Reduce wastage in resources.
 - Ensure that all students to receive a quality education in order to realize their potential and become productive citizens to the country. 
 
+## Abstract Design Architecture
+
+
+
+
+
 ## Features
 
 + **Student profile**
@@ -61,9 +67,6 @@ A complete student information system for the Ministry of education to cover all
   - Realtime dashboard 
   - Statistical data visualization 
   - Multiple dashboards in diffetent perspectives
-
-
-
 
 
 ## Benefits
