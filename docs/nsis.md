@@ -81,5 +81,11 @@ Ensure that all students to receive a quality education in order to realize thei
 - For the higher levels in the education sector, the system will facilitate up to date student information to the projects currently operating such as Uniform vouchers, Shoe vouchers, Milk, Mid-Day Meal, textbooks and Suraksha- the student Insurance scheme. Certain information in the system will flag the health risks of students. For example, students under underweight or obese levels can be targeted to provide nutritional programmes and awareness programmes as a preventive measure in order to have a healthy younger generation.
 - This NSIS can be viewed as a step towards achieving the objective of E-governance which the Sri Lankan Government is currently striving for. It is expected that the NSIS will become a full-fledged system which will fulfil the requirements of current and future needs of the parties of education sector enabling them to provide quality education to all the students in Sri Lanka. 
 
+### A step for the digitalized schools.
+
+NSIS project helps as an initial application for digitized school concept by introducing information management based on schools. Under this application, class teachers will be getting touch with a student information management system and that would be an initial step to make digitalized schools by empowering academic staff from bottom to top. 
+
+
+
 
 
