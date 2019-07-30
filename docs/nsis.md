@@ -23,6 +23,46 @@ A complete student information system for the Ministry of education to cover all
   - Health information
   - Performance and history information 
 
+- **School profile**
+  - Physical information 
+  - Contact details 
+  - Location information (Map) 
+  - Positions and teacher information
+  - Staff structure
+  - Student allocation for each class 
+  - Infrastructure information  
+
+- **Guardian information**
+  - Personal information
+  - Student guardian relationship 
+  
+- **Education programs** 
+  - Classes structure 
+  - Subject allocation 
+  - 13 years program 
+  - Special education program 
+
+- **Student promotion(between grades)**
+  - Bulk student promotion between grades annually 
+  - Keep upto date student information 
+  - Student transferring (between schools)
+ 
+- **Track student transferring**
+  - Avoid student registration in multiple schools 
+  - Maintain student tracing history records. 
+
+- **Heretical Management (Provincial/ Zonal /School ) 
+  - Admin staff hierarchy
+  - Role-based permission model 
+  - Customizable roles 
+  - Auditing and tracing facilities. 
+
+- **Data monitoring and report generating 
+  - Realtime dashboard 
+  - Statistical data visualization 
+  - Multiple dashboards in diffetent perspectives
+
+
 
 
 
