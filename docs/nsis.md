@@ -15,6 +15,15 @@ A complete student information system for the Ministry of education to cover all
 - Reduce wastage in resources.
 - Ensure that all students to receive a quality education in order to realize their potential and become productive citizens to the country. 
 
+## Features
+
+- **Student profile**
+  - Personal information 
+  - Academic information
+  - Health information
+  - Performance and history information 
+
+
 
 
 ## Benefits
