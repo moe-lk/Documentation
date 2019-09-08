@@ -11,7 +11,7 @@ copyright: 'Copyright &copy; 2018 - 2019 Lanka Software Foundation'
 nav:
   - Home : index.md
   - NSIS : nsis.md
-      - Information Schema : schema.md
+  - Information Schema : schema.md
     
 theme:
   name: 'material'
