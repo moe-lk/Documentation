@@ -71,16 +71,15 @@ The bulk upload App will be a simple app which user can login using there NEMIS-
 Here we are Processing Many tables to import data. To simplify the process.
 
 
-We are support for fresh data import and update exsisting data.You can find the template from here.
-
-[Template](https://onedrive.live.com/download?resid=367F7CD71188D7DA%211012&authkey=%21AL4A-jLv8V-fhEI&em=2&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True)
+We are support for fresh data import and update exsisting data.You can find the template from here. [Templates](https://onedrive.live.com/download?resid=367F7CD71188D7DA%211012&authkey=%21AL4A-jLv8V-fhEI&em=2&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True)
 
 
-
+## Fresh Data Sheet
 ![Fresh Data Sheet](images/sheet_2.png)
 
 We can upload new by filling this sheet and upload to the system
 
+## Update Data Sheet
 ![Update Data Sheet](images/sheet_1.png)
 
 We can update exsiting student's data by uploading this sheet.
