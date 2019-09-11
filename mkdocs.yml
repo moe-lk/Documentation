@@ -12,6 +12,7 @@ nav:
   - Home : index.md
   - NSIS : nsis.md
   - Information Schema : schema.md
+  - Bulk Upload : bulk_upload.md
     
 theme:
   name: 'material'
