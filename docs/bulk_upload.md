@@ -1,11 +1,13 @@
-Bulk Data Upload
+# Bulk Data Upload
 
 Bulk data upload feature will facilitate end-users to import new students details using an Excel sheet. The Upload process could be done by the Class teacher as they should upload data of particular class students details. Bulk Upload excel sheet contains the following data with it.
 
 The bulk upload App will be a simple app which user can login using there NEMIS-SIS login information and download template what we have designed already.  We can track 
 
-## Student information
+## Student's information
  
+### Basic Informations
+
   * Full name
   * Gender
   * Date of Birth
@@ -14,27 +16,28 @@ The bulk upload App will be a simple app which user can login using there NEMIS-
   * Nationality
   * Nationality Type
   * Identity  Number
-## BMI
+  
+### BMI
 
   * Height
   * Weight
   * Date
   
-## Academic Information
+### Academic Information
  
  * Admission No
  * Academic Period
  * Education Grade
  * Start Date
 
-## Special Needs
+### Special Needs
  
  * Need Type
  * Special Need Difficulty
 
-## Optional Subject
+### Optional Subject
   
-  *Options 1 to n
+  * Options 1 to n
 
 ## Guardian's Information
 
